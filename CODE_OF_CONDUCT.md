@@ -12,3 +12,4 @@
 12. kage ordning; sidste møde på ugen. går på skift, alfabetisk
 13. DER SKAL ABSOLUT INGEN BRAINROT ELLER LIGN. I RAPPORTEN, UNDER NOGEN OMSTÆNDIGHEDER!!!.
       hvis dette bryde vil det øjeblikeligt hoppe til level 2 "gruppesnak"
+14. Kode, komentarer og commit beskeder følge samme princip som §13
