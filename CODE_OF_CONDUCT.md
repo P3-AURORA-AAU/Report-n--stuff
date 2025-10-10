@@ -10,3 +10,5 @@
 10. syge eller fraværende gruppemedlemer bør videst muligt deltage i møder over teams
 11. Trunk Based Development skal benyttes gennem projektet
 12. kage ordning; sidste møde på ugen. går på skift, alfabetisk
+13. DER SKAL ABSOLUT INGEN BRAINROT ELLER LIGN. I RAPPORTEN, UNDER NOGEN OMSTÆNDIGHEDER!!!.
+      hvis dette bryde vil det øjeblikeligt hoppe til level 2 "gruppesnak"
